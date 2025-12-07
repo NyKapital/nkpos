@@ -1419,16 +1419,16 @@
         },
         {
             "name": "gumlet/php-image-resize",
-            "version": "2.1.0",
+            "version": "2.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/gumlet/php-image-resize.git",
-                "reference": "73915788742c30de4fdb8e54b25cd03a085a4459"
+                "reference": "4ab5e080f9c9d432c1a8cb6e158d9fd99950a6d1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/gumlet/php-image-resize/zipball/73915788742c30de4fdb8e54b25cd03a085a4459",
-                "reference": "73915788742c30de4fdb8e54b25cd03a085a4459",
+                "url": "https://api.github.com/repos/gumlet/php-image-resize/zipball/4ab5e080f9c9d432c1a8cb6e158d9fd99950a6d1",
+                "reference": "4ab5e080f9c9d432c1a8cb6e158d9fd99950a6d1",
                 "shasum": ""
             },
             "require": {
@@ -1437,7 +1437,6 @@
                 "php": ">=8.1.0"
             },
             "require-dev": {
-                "apigen/apigen": "^4.1",
                 "ext-exif": "*",
                 "ext-gd": "*",
                 "php-coveralls/php-coveralls": "^2.1",
@@ -1472,9 +1471,9 @@
             ],
             "support": {
                 "issues": "https://github.com/gumlet/php-image-resize/issues",
-                "source": "https://github.com/gumlet/php-image-resize/tree/2.1.0"
+                "source": "https://github.com/gumlet/php-image-resize/tree/2.1.2"
             },
-            "time": "2025-04-23T19:36:05+00:00"
+            "time": "2025-09-12T08:04:59+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -11412,6 +11411,6 @@
     "platform": {
         "php": "^8.2.0"
     },
-    "platform-dev": [],
+    "platform-dev": {},
     "plugin-api-version": "2.6.0"
 }
